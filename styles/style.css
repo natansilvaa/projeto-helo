@@ -92,18 +92,18 @@ section.imagem >p{
 }
 
 section#img01{
-    background-image: url(../imagens/img01.png);
+    background-image: url(../imagens/img01.jpeg);
     background-position: right center;
     background-size: cover;
 }
 
 section#img02{
-    background-image: url(../imagens/img02.png);
+    background-image: url(../imagens/img02.jpeg);
     background-position: right center;
     background-size: cover;
 }
 section#img04{
-    background-image: url(../imagens/img04.png);
+    background-image: url(../imagens/img03.jpeg);
     background-position: right center;
     background-size: cover;
 }
