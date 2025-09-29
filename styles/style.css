@@ -70,14 +70,18 @@ section > p{
     padding-bottom: 2em;
 }
 section.normal{
-    background-color: white;
+    background-image: url(../imagens/normal-03.jpg);
     color: black;
+    background-repeat: no-repeat;
+      background-position: right center;
+    background-size: cover;
+}
 }
 
 
 section.imagem{
     background-color: rgba(0, 0, 0, 0.637);
-    color: white;
+    background-color: #fafafa;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.781);
     background-attachment: fixed;
 }
@@ -107,6 +111,7 @@ section#img04{
     background-position: right center;
     background-size: cover;
 }
+
 footer{
     background-color: black;
     color: white;
