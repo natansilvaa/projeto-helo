@@ -65,9 +65,14 @@ section{
     font-family: var(--font3);
     font-size: 4vw;
 }
+#lblack{
+    padding-bottom: 2em;
+    color: black;
+}
 
 section > p{
     padding-bottom: 2em;
+    color: white;
 }
 section.normal{
     background-image: url(../imagens/normal-03.jpg);
@@ -76,7 +81,7 @@ section.normal{
       background-position: right center;
     background-size: cover;
 }
-}
+
 
 
 section.imagem{
